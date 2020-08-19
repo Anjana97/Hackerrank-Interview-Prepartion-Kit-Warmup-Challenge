@@ -20,8 +20,8 @@ for (int i = 0; i < c_count - 1; i++) {
 }
 return count;
 
-}
 
+}
 
 int main()
 {
