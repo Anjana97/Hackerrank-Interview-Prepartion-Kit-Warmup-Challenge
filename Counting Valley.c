@@ -10,7 +10,7 @@
 
 char* readline();
 
-// Complete the countingValleys function below.
+// Complete the countingValleys f
 int countingValleys(int n, char* s) {
 int valley=0;
 int level=0;
