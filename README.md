@@ -1,2 +1,2 @@
-# Hackerrank-Warmup-Challenge
+# Hac-Warmup-Challenge
 Interview-Preparation-Kit
